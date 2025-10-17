@@ -1,0 +1,1 @@
+{\n  "buildCommand": "prisma generate && next build",\n  "devCommand": "next dev",\n  "installCommand": "npm install",\n  "framework": "nextjs"\n}
